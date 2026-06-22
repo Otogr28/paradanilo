@@ -29,7 +29,7 @@ Carpeta `mods/` con **10 archivos `.jar`** (Custom Companions + sus 9 dependenci
 
 | Archivo | Qué es |
 |---------|--------|
-| `customcompanions-0.1.65.jar` | **El mod principal** (los compañeros) |
+| `customcompanions-0.1.70.jar` | **El mod principal** (los compañeros) |
 | `geckolib-forge-1.20.1-4.8.3.jar` | Motor de modelos/animaciones (obligatorio) |
 | `ars_nouveau-1.20.1-4.12.7-all.jar` | Dependencia |
 | `curios-309927-6418456.jar` | Slots de accesorios (dep) |
